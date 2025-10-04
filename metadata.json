@@ -1,0 +1,5 @@
+{
+  "name": "MusicLog",
+  "description": "A Letterboxd-style application to discover, track, and rate the music and albums you listen to, powered by AI-generated insights.",
+  "requestFramePermissions": []
+}
